@@ -1,0 +1,17 @@
+h3{
+    margin: 1cm;
+    font-family: 'proxima-nova', sans-serif;
+    font-weight: lighter;
+    display: inline-block;
+    color: white;
+}
+
+article {
+    background-color: rgb(32, 32, 32);
+    border-radius: 20px;
+    max-width: max-content;
+    margin: 1cm auto; 
+    padding: 1%; 
+    text-align: center; 
+    height: 100%;
+}
