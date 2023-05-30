@@ -1,0 +1,4 @@
+- npm i 
+- - npm i firebase
+- npm run build
+- npm start
